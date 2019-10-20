@@ -104,8 +104,9 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
-## A pair of functions that cache the inverse of a matrix
 
+```R
+## A pair of functions that cache the inverse of a matrix
 
 ## Creates a special matrix object that can cache its inverse
 makeCacheMatrix <- function( m = matrix() ) {
@@ -169,5 +170,6 @@ cacheSolve <- function(x, ...) {
     ## Return the matrix
     m
 }
+```
 
 ### [UtkarshPathrabe](https://github.com/UtkarshPathrabe/R-Programming-Johns-Hopkins-Bloomberg-School-of-Public-Health-Coursera/blob/master/programming-assignment-2/cachematrix.R)
