@@ -104,6 +104,7 @@ In order to complete this assignment, you must do the following:
 
 This assignment will be graded via peer assessment.
 
+### Programming Assignment 2: Lexical Scoping
 
 ```R
 ## A pair of functions that cache the inverse of a matrix
